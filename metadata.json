@@ -1,0 +1,6 @@
+{
+  "name": "A Bridge Between Two Worlds: Algeria & Japan",
+  "description": "An interactive educational documentary and cultural bridge comparing Algeria and Japan for secondary school students, featuring cinematic scenes, audio narration, subtitles, and interactive study modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
